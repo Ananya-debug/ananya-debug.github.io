@@ -1,0 +1,15 @@
+.container{
+     display: flex;
+     justify-content: center;
+     flex-wrap: wrap;
+     padding: 9px;
+}
+
+.btn{
+     margin: 5px;
+     width: 60px;
+     height: 60px;
+     font-size: 25px;
+     border: 1px solid gray;
+     border-radius: 3px;
+}
